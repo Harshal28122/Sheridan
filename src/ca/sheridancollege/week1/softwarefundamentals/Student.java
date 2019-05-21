@@ -29,6 +29,9 @@ public class Student {
      */
     public void setName(String name) {
         this.name = name;
+        
+       String name = "Harshal Bhatt";
+        // This is my name 
     }
 
 }
